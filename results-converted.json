@@ -1,0 +1,297 @@
+{
+    "query": {
+        "sort": [],
+        "limits": [{
+            "tag": "title",
+            "value": "physics",
+            "name": "Title"
+        }, {
+            "tag": "pubYear",
+            "value": "2009",
+            "name": "Publication Date"
+        }]
+    },
+    "results": {
+        "items": [{
+            "bodySnippet": null,
+            "summarySnippet": " This module describes the benefits of incorporating sandbox style video games into physics instruction. Specifically, it introduces the use of the simulation program Algodoo. ",
+            "pubDate": "2009-10-05T07:25:50Z",
+            "title": "Algodoo in the Physics Classroom",
+            "keywords": ["algodoo", "physics", "sandbox", "simulation"],
+            "authors": [{
+                "website": "",
+                "surname": "Maust",
+                "suffix": "",
+                "firstname": "Gregory",
+                "title": "",
+                "othername": "",
+                "id": "redraevyn",
+                "fullname": "Gregory Maust",
+                "email": "gmaust@gmail.com"
+            }],
+            "id": "f65a8c45-2759-4ed8-8380-6357ee409517@1",
+            "mediaType": "Module"
+        }, {
+            "bodySnippet": null,
+            "summarySnippet": " This report summarizes work done as part of the Physics of Strings PFUG under Rice University's VIGRE program.  VIGRE is a program of Vertically Integrated Grants for Research and Education in the Mathematical Sciences under the direction of the National Science Foundation.  A PFUG is a group of Postdocs",
+            "pubDate": "2009-11-10T05:05:59Z",
+            "title": "The Physics of Springs",
+            "keywords": [],
+            "authors": [{
+                "website": "",
+                "surname": "Mehta",
+                "suffix": "",
+                "firstname": "Aneesh",
+                "title": "",
+                "othername": "",
+                "id": "amehta",
+                "fullname": "Aneesh Mehta",
+                "email": "anm5@rice.edu"
+            }, {
+                "website": "",
+                "surname": "Williamson",
+                "suffix": "",
+                "firstname": "Heather",
+                "title": "",
+                "othername": "",
+                "id": "hwilliamson",
+                "fullname": "Heather Williamson",
+                "email": "heather.l.williamson@rice.edu"
+            }, {
+                "website": "",
+                "surname": "Cavazos",
+                "suffix": "",
+                "firstname": "Jordon",
+                "title": "",
+                "othername": "",
+                "id": "jCavazos",
+                "fullname": "Jordon Cavazos",
+                "email": "jdc1@rice.edu"
+            }, {
+                "website": "",
+                "surname": "Bridge",
+                "suffix": "",
+                "firstname": "Jeffrey",
+                "title": "",
+                "othername": "",
+                "id": "jab3",
+                "fullname": "Jeffrey Bridge",
+                "email": "Jeffrey.A.Bridge@rice.edu"
+            }, {
+                "website": "",
+                "surname": "Broussard",
+                "suffix": "",
+                "firstname": "Matthew",
+                "title": "",
+                "othername": "",
+                "id": "MatthewBroussard",
+                "fullname": "Matthew Broussard",
+                "email": "mlb3@rice.edu"
+            }, {
+                "website": "http://www.caam.rice.edu/~cox",
+                "surname": "Cox",
+                "suffix": "",
+                "firstname": "Steven",
+                "title": "Professor",
+                "othername": "James",
+                "id": "cox",
+                "fullname": "Steven J. Cox",
+                "email": "cox@rice.edu"
+            }],
+            "id": "b3ab1636-11e2-48f6-9cbf-7295229d05f0@1",
+            "mediaType": "Module"
+        }, {
+            "bodySnippet": null,
+            "summarySnippet": " Coordinate system is a mathematical construct to measure distance and direction in relation to a system of rigid bodies. The connection to rigid bodies is a crucial consideration for drawing a coordinate system, with out which coordinate system has no meaning in physics. ",
+            "pubDate": "2009-09-03T12:16:59Z",
+            "title": "Coordinate systems in physics",
+            "keywords": ["Coordinate systems"],
+            "authors": [{
+                "website": "",
+                "surname": "Singh",
+                "suffix": "",
+                "firstname": "Sunil",
+                "title": "",
+                "othername": "Kumar",
+                "id": "Sunil_Singh",
+                "fullname": "Sunil Kumar Singh",
+                "email": "sunilkr99@yahoo.com"
+            }],
+            "id": "1d1d5ab1-0b2e-4303-af8c-aa14ab01ca13@7",
+            "mediaType": "Module"
+        }],
+        "total": 3,
+        "auxiliary": {
+            "types": [{
+                "id": "application/vnd.org.cnx.collection",
+                "name": "Collection"
+            }, {
+                "id": "application/vnd.org.cnx.module",
+                "name": "Module"
+            }],
+            "authors": [{
+                "website": "",
+                "surname": "Maust",
+                "suffix": "",
+                "firstname": "Gregory",
+                "title": "",
+                "othername": "",
+                "id": "redraevyn",
+                "fullname": "Gregory Maust",
+                "email": "gmaust@gmail.com"
+            }, {
+                "website": "",
+                "surname": "Bridge",
+                "suffix": "",
+                "firstname": "Jeffrey",
+                "title": "",
+                "othername": "",
+                "id": "jab3",
+                "fullname": "Jeffrey Bridge",
+                "email": "Jeffrey.A.Bridge@rice.edu"
+            }, {
+                "website": "",
+                "surname": "Cavazos",
+                "suffix": "",
+                "firstname": "Jordon",
+                "title": "",
+                "othername": "",
+                "id": "jCavazos",
+                "fullname": "Jordon Cavazos",
+                "email": "jdc1@rice.edu"
+            }, {
+                "website": "",
+                "surname": "Williamson",
+                "suffix": "",
+                "firstname": "Heather",
+                "title": "",
+                "othername": "",
+                "id": "hwilliamson",
+                "fullname": "Heather Williamson",
+                "email": "heather.l.williamson@rice.edu"
+            }, {
+                "website": "http://www.caam.rice.edu/~cox",
+                "surname": "Cox",
+                "suffix": "",
+                "firstname": "Steven",
+                "title": "Professor",
+                "othername": "James",
+                "id": "cox",
+                "fullname": "Steven J. Cox",
+                "email": "cox@rice.edu"
+            }, {
+                "website": "",
+                "surname": "Mehta",
+                "suffix": "",
+                "firstname": "Aneesh",
+                "title": "",
+                "othername": "",
+                "id": "amehta",
+                "fullname": "Aneesh Mehta",
+                "email": "anm5@rice.edu"
+            }, {
+                "website": "",
+                "surname": "Singh",
+                "suffix": "",
+                "firstname": "Sunil",
+                "title": "",
+                "othername": "Kumar",
+                "id": "Sunil_Singh",
+                "fullname": "Sunil Kumar Singh",
+                "email": "sunilkr99@yahoo.com"
+            }, {
+                "website": "",
+                "surname": "Broussard",
+                "suffix": "",
+                "firstname": "Matthew",
+                "title": "",
+                "othername": "",
+                "id": "MatthewBroussard",
+                "fullname": "Matthew Broussard",
+                "email": "mlb3@rice.edu"
+            }]
+        },
+        "limits": [{
+            "tag": "pubYear",
+            "values": [{
+                "count": 3,
+                "value": "2009"
+            }],
+            "name": "Publication Date"
+        }, {
+            "tag": "authorID",
+            "values": [{
+                "count": 1,
+                "value": "jab3",
+                "displayValue": "Jeffrey Bridge"
+            }, {
+                "count": 1,
+                "value": "MatthewBroussard",
+                "displayValue": "Matthew Broussard"
+            }, {
+                "count": 1,
+                "value": "jCavazos",
+                "displayValue": "Jordon Cavazos"
+            }, {
+                "count": 1,
+                "value": "cox",
+                "displayValue": "Steven J. Cox"
+            }, {
+                "count": 1,
+                "value": "redraevyn",
+                "displayValue": "Gregory Maust"
+            }, {
+                "count": 1,
+                "value": "amehta",
+                "displayValue": "Aneesh Mehta"
+            }, {
+                "count": 1,
+                "value": "Sunil_Singh",
+                "displayValue": "Sunil Kumar Singh"
+            }, {
+                "count": 1,
+                "value": "hwilliamson",
+                "displayValue": "Heather Williamson"
+            }],
+            "name": "Author"
+        }, {
+            "tag": "type",
+            "values": [{
+                "count": 0,
+                "value": "Collection",
+                "displayValue": "Collection"
+            }, {
+                "count": 3,
+                "value": "Module",
+                "displayValue": "Module"
+            }],
+            "name": "Type"
+        }, {
+            "tag": "keyword",
+            "values": [{
+                "count": 1,
+                "value": "algodoo"
+            }, {
+                "count": 1,
+                "value": "Coordinate systems"
+            }, {
+                "count": 1,
+                "value": "physics"
+            }, {
+                "count": 1,
+                "value": "sandbox"
+            }, {
+                "count": 1,
+                "value": "simulation"
+            }],
+            "name": "Keyword"
+        }, {
+            "tag": "subject",
+            "values": [{
+                "count": 2,
+                "value": "Science and Technology"
+            }],
+            "name": "Subject"
+        }]
+    }
+}
